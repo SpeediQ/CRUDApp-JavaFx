@@ -111,7 +111,7 @@
             <Font size="14.0" />
          </font>
       </Label>
-      <Label layoutX="407.0" layoutY="9.0" text="LIBRARY" textFill="#261679">
+      <Label layoutX="379.0" layoutY="9.0" text="BOOKSTORE" textFill="#261679">
          <font>
             <Font size="30.0" />
          </font>

@@ -188,7 +188,7 @@ public class MainController implements Initializable {
         Connection conn;
         String url = "jdbc:mysql://localhost:3306/library?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
         String user = "root";
-        String password = "password";
+        String password = "Nicram1909";
         try {
             conn = DriverManager.getConnection(url, user, password);
             return conn;
